@@ -1,3 +1,5 @@
 etc/
 .nonadmin
 conda-meta/
+Lib/
+.nonadmin

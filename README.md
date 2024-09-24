@@ -3,7 +3,7 @@
 
 # Fases del Proyecto
 
-- `Análisis Exploratorio de Datos (EDA)`: Se realizó un breve análisis de la información obtenida con el fin de determinar y visualizar las distribuciones, outliers, entender y corregir valores faltantes, así comom eliminar valores duplicados
+- `Análisis Exploratorio de Datos (EDA)`: Se realizó un breve análisis de la información obtenida con el fin de determinar y visualizar las distribuciones, outliers, entender y corregir valores faltantes, así como eliminar valores duplicados
 - `Dashboard`: Se realizó un dashboard usando Streamlit para poder compartir la información y facilitar su interpretación.
 - `KPIs`: Se medirán 3 indicadores o KPIs principales, los cuales son:
     -  Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia
