@@ -3,7 +3,7 @@ etc/
 conda-meta/
 Lib/
 .nonadmin
-.Scripts/
+Scripts/
 .share/
 Include/
 pyvenv.cfg
