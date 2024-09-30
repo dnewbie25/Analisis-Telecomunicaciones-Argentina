@@ -3,8 +3,8 @@ etc/
 conda-meta/
 Lib/
 .nonadmin
-Scripts/
-share/
+.Scripts/
+.share/
 Include/
 pyvenv.cfg
 .DS_Store
