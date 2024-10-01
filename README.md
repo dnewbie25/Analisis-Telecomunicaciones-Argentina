@@ -8,6 +8,8 @@ En este proyecto se busca analizar el panorama de las telecomunicaciones en Arge
 
 _[Dashboard Desplegado con Streamlit](https://telecomunicaciones-argentina.streamlit.app)_
 
+![image](https://github.com/user-attachments/assets/7431f406-007c-444c-bce9-fb0f0c051631)
+
 ## Objetivos
 
 1. **Medir el crecimiento y los ingresos** de los servicios de internet y televisión.
