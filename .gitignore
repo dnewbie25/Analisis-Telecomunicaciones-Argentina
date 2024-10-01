@@ -4,7 +4,7 @@ conda-meta/
 Lib/
 .nonadmin
 Scripts/
-.share/
+share/
 Include/
-pyvenv.cfg
 .DS_Store
+./pyvenv.cfg
