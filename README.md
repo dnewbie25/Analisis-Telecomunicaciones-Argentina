@@ -10,6 +10,8 @@ _[Dashboard Desplegado con Streamlit](https://telecomunicaciones-argentina.strea
 
 ![image](https://github.com/user-attachments/assets/7431f406-007c-444c-bce9-fb0f0c051631)
 
+Además se hizo una breve presentación con los datos obtenidos, la cual puede encontrarse aquí: _[Evolución de Internet y Televisión en Argentina](https://www.canva.com/design/DAGSXt08Lfw/edoCEBk4TAXwlu6lL9WTQg/edit?utm_content=DAGSXt08Lfw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)_
+
 ## Objetivos
 
 1. **Medir el crecimiento y los ingresos** de los servicios de internet y televisión.
